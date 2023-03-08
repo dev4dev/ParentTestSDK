@@ -3,4 +3,8 @@ public struct ParentTestSDK {
 
     public init() {
     }
+
+    public func say() {
+        print(text)
+    }
 }
