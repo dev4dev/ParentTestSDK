@@ -7,4 +7,8 @@ public struct ParentTestSDK {
     public func say() {
         print(text)
     }
+
+    public func kek() {
+        print("Hello, Kek!")
+    }
 }
